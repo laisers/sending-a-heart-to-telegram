@@ -1,3 +1,7 @@
 # sending-a-heart-to-telegram
 Это чисто фановый скрипт, который по команде отправляет в диалог смайлик и в дальнейшем его изменяет. Получает илюзия анимации.
-https://raw.githubusercontent.com/laisers/sending-a-heart-to-telegram/main/demo.mp4
+
+
+
+https://user-images.githubusercontent.com/74301420/155849696-2206c1ac-7645-4575-8dc2-3a8c42dc5918.mp4
+
